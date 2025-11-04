@@ -1,1 +1,13 @@
-# profileRepo
+# 👋 Hi, I'm Nkosinathi👨‍💻
+### 🧠 About Me
+- 🎓 Currently studying: **Bsc Computer Science at Wits University**
+- 💻 Working on: **Software/App/Web Development**
+- 🌱 Interested in: **AI, Sofware Development and Cybersecurity**
+---
+### 🛠️ Tech Stack
+`Java` | `Python` | `C++` | `MySQL`| `HTML`| | `CSS`| `Javascript`|
+---
+### 🌐 Connect with Me
+- 📫 Email: khumalogiven08@gmail.com
+- 💼 LinkedIn:www.linkedin.com/in/nkosinathi-khumalo06
+---
